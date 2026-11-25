@@ -1,0 +1,8 @@
+[
+  {"exe": "pokegold",
+   "en": {"make": "gold", "rom": "pokegold.gbc", "sym": "pokegold.sym", "name": "gold", "prefix": "gold"},
+   "fr": {"title": "POKEMON_GLDAAUF", "name": "or", "roots": ["pc/roots_gold_fr.txt", "pc/roots_gold_fr_runtime.txt"]}},
+  {"exe": "pokesilver",
+   "en": {"make": "silver", "rom": "pokesilver.gbc", "sym": "pokesilver.sym", "name": "silver", "prefix": "silver"},
+   "fr": {"title": "POKEMON_SLVAAXF", "name": "argent", "roots": ["pc/roots_silver_fr.txt", "pc/roots_silver_fr_runtime.txt"]}}
+]
